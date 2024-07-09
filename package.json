@@ -1,0 +1,24 @@
+{
+  "name": "enpointe_hrms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayyedSha/Enpointe_HRMS.git"
+  },
+  "author": "Shahanawaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayyedSha/Enpointe_HRMS/issues"
+  },
+  "homepage": "https://github.com/SayyedSha/Enpointe_HRMS#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  },
+  "type": "module"
+}
